@@ -36,14 +36,15 @@ The shopping bag page includes:
 ## Screenshots
 
 ### Desktop View
-![Landing Page](./Screenshot%20(34).png)
-![Product Page](./Screenshot%20(35).png)
-![Shopping Bag](./Screenshot%20(39).png)
+![Landing Page](https://github.com/user-attachments/assets/2ad8c395-13e2-4d85-82dd-2bcbfb0dcfa3)
+![Product Page](https://github.com/user-attachments/assets/9e13f001-1fca-4dbf-b5f1-27049c778b13)
+![Shopping Bag](https://github.com/user-attachments/assets/9e13f001-1fca-4dbf-b5f1-27049c778b13)
 
 ### Mobile View
-![Landing Page Mobile](./Screenshot%20(36).png)
-![Product Page Mobile](./Screenshot%20(37).png)
-![Shopping Bag Mobile](./Screenshot%20(38).png)
+![Landing Page Mobile](https://github.com/user-attachments/assets/ee605add-32c9-4bc1-a9ff-66046f247bc5)
+![Product Page Mobile](https://github.com/user-attachments/assets/50011042-2547-4611-ad8b-3a591e74622f)
+![Shopping Bag Mobile](https://github.com/user-attachments/assets/1b7ee19a-6213-4711-beef-3a305050f648)
+
 
 ---
 
