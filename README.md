@@ -37,7 +37,7 @@ The shopping bag page includes:
 
 ### Desktop View
 ![Landing Page](https://github.com/user-attachments/assets/2ad8c395-13e2-4d85-82dd-2bcbfb0dcfa3)
-![Product Page](https://github.com/user-attachments/assets/9e13f001-1fca-4dbf-b5f1-27049c778b13)
+![Product Page](https://github.com/user-attachments/assets/60a867fd-a1ab-4094-ad97-25962d32e082)
 ![Shopping Bag](https://github.com/user-attachments/assets/9e13f001-1fca-4dbf-b5f1-27049c778b13)
 
 ### Mobile View
