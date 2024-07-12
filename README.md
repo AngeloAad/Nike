@@ -32,7 +32,19 @@ The shopping bag page includes:
 
 - **Frontend**: React.js
 - **Styling**: TailwindCSS
-  
+
+## Screenshots
+
+### Desktop View
+![Landing Page](./Screenshot%20(34).png)
+![Product Page](./Screenshot%20(35).png)
+![Shopping Bag](./Screenshot%20(39).png)
+
+### Mobile View
+![Landing Page Mobile](./Screenshot%20(36).png)
+![Product Page Mobile](./Screenshot%20(37).png)
+![Shopping Bag Mobile](./Screenshot%20(38).png)
+
 ---
 
 Thank you for visiting my Nike E-Commerce Shoe Store repository!
